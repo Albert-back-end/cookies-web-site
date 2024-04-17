@@ -57,7 +57,7 @@ body {
 }
 
 .menu {
-    margin: 250px;
+    margin-left: 250px;
 }
 
 .menu ul {
@@ -75,7 +75,7 @@ body {
 }
 
 .menu-item a:hover {
-    color: #7ecbd5;
+    border-bottom: 2px solid #fff;
 }
 
 .main-content {
