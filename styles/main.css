@@ -76,7 +76,7 @@ body {
     text-align: center;
     cursor: pointer;
     line-height: 20px;
-    z-index: -1;
+    z-index: 99;
     user-select: none;
     transform: scale(1);
     animation: pulse 2s infinite;
